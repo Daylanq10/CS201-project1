@@ -1,0 +1,46 @@
+Monthly Employees
+Jack
+349083240292
+5
+Monthly Employees
+Lisa
+349083244298
+8
+Monthly Employees
+Noah
+349388240291
+3
+Monthly Employees
+Stan
+349000240290
+9
+Hourly Employees
+Max
+349083240293
+T
+1089
+Hourly Employees
+Steve
+349083240253
+F
+1051
+Hourly Employees
+Mohamed
+349083240233
+F
+1487
+Hourly Employees
+Bill
+349083220256
+T
+2000
+Hourly Employees
+Marcus
+334083220254
+F
+-6.27744e+66
+Hourly Employees
+Bart
+349003220252
+F
+-6.27744e+66

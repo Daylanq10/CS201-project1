@@ -1,0 +1,7 @@
+﻿  RecCenter.cpp
+\\Mac\Home\Desktop\Program4\RecCenter.cpp(122,22): warning C4018:  '<': signed/unsigned mismatch
+\\Mac\Home\Desktop\Program4\RecCenter.cpp(146,22): warning C4018:  '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+\\Mac\Home\Desktop\Program4\RecCenter.cpp(169,20): warning C4018:  '<': signed/unsigned mismatch
+  Program4.vcxproj -> \\Mac\Home\Desktop\Program4\Debug\Program4.exe
